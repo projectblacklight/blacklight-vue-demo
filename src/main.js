@@ -21,6 +21,8 @@ Vue.http.options.headers = {
   Accept: 'application/json'
 }
 
+Vue.prototype.$titleField = 'title_display'
+
 new Vue({
   router,
   render: h => h(App)
