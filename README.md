@@ -1,29 +1,7 @@
 # blacklight-vue-demo
 
-## Project setup
-```
-yarn install
-```
+This is a Vue project for demonstrating how to use Blacklight-vue.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+## Steps to generate this project
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. `vue create blacklight-vue-demo`
