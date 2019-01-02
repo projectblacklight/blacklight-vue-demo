@@ -2,6 +2,11 @@
 
 This is a Vue project for demonstrating how to use Blacklight-vue.
 
+## Use this demo:
+
+1. `yarn install`
+1. `yarn serve`
+
 ## Steps to generate this project
 
 1. `vue create blacklight-vue-demo`
