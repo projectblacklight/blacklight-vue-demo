@@ -1445,10 +1445,10 @@ binary-extensions@^1.0.0:
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-1.12.0.tgz#c2d780f53d45bba8317a8902d4ceeaf3a6385b14"
   integrity sha512-DYWGk01lDcxeS/K9IHPGWfT8PsJmbXRtRd2Sx72Tnb8pcYZQFF1oSDb8hJtS1vhp212q1Rzi5dUf9+nq0o9UIg==
 
-blacklight-vue@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/blacklight-vue/-/blacklight-vue-0.0.1.tgz#12b5f3b1db99e09df95f74cebed21e3e52ded3e9"
-  integrity sha512-M04JrkHH+4btKS6NrKjZQRu+dx2jQ6h9hCN48OlIfFF6l0uwtRz0vmxt3FwZG1Gm3rCV3zTxgrlD6b0LlaDqMw==
+blacklight-vue@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/blacklight-vue/-/blacklight-vue-0.0.2.tgz#a96cba83101f683eb6669ed25d40f9784fa795ba"
+  integrity sha512-CjH+S7fwJVIi40usilG9LS9n1RjBXBNh/3WwSME2CgycaW862BNyHJScwy0Rkvv10YNg8PITDwTcFOV037Lxag==
   dependencies:
     array.prototype.flatmap "^1.2.1"
     sass-loader "^7.1.0"
@@ -1505,6 +1505,11 @@ boolbase@^1.0.0, boolbase@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
   integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
+
+bootstrap@^4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.2.1.tgz#8f8bdca024dbf0e8644da32e918c8a03a90a5757"
+  integrity sha512-tt/7vIv3Gm2mnd/WeDx36nfGGHleil0Wg8IeB7eMrVkY0fZ5iTaBisSh8oNANc2IBsCc6vCgCNTIM/IEN0+50Q==
 
 brace-expansion@^1.1.7:
   version "1.1.11"

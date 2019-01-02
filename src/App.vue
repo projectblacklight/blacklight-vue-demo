@@ -12,5 +12,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~blacklight-vue/scss/blacklight.scss';
 </style>
